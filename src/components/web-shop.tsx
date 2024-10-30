@@ -36,7 +36,7 @@ export default function WebShop() {
       price: 40.41,
       rating: 4,
       description: "A stylish and convenient handbag to complement any outfit.",
-      image: "/images/1.jpg",
+      image: "/src/assets/images/1.jpg",
       category: "accessories",
     },
     {
