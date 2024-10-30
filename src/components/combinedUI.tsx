@@ -96,9 +96,7 @@ const WebSecurityAcademy = () => {
           </div>
         </div>
         <nav>
-          <a href="/home" className="text-blue-600 hover:underline">
-            Home
-          </a>
+          
         </nav>
       </header>
 
